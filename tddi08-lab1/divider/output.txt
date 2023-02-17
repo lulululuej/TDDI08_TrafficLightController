@@ -1,0 +1,7 @@
+quotient(1 s) = 0.5
+quotient(2 s) = 2
+quotient(3 s) = 2.5
+quotient(4 s) = 1.75
+quotient(5 s) = 3
+quotient(6 s) = 4
+quotient(7 s) = 5
